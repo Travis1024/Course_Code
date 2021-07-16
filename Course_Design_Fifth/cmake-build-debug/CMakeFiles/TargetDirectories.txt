@@ -1,0 +1,3 @@
+F:/Clion file/Course_Design_Fifth/cmake-build-debug/CMakeFiles/Course_Design_Fifth.dir
+F:/Clion file/Course_Design_Fifth/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Clion file/Course_Design_Fifth/cmake-build-debug/CMakeFiles/rebuild_cache.dir

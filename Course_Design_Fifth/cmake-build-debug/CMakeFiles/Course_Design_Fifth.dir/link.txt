@@ -1,0 +1,3 @@
+"F:\clion\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Course_Design_Fifth.dir/objects.a
+G:\MinGw_new\mingw64\bin\ar.exe cr CMakeFiles\Course_Design_Fifth.dir/objects.a @CMakeFiles\Course_Design_Fifth.dir\objects1.rsp
+G:\MinGw_new\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Course_Design_Fifth.dir/objects.a -Wl,--no-whole-archive  -o Course_Design_Fifth.exe -Wl,--out-implib,libCourse_Design_Fifth.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Course_Design_Fifth.dir\linklibs.rsp

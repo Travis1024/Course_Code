@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Clion file/Course_Design_Fifth/main.cpp
+iostream
+-
+sstream
+-
+fstream
+-
+string
+-
+stdio.h
+-
+string.h
+-
+deque
+-
+map
+-
+
